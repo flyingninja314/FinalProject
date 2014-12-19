@@ -25,6 +25,8 @@ public class quiz {
 
     }
 
+//    I was going to have three xml files. The first on was a start screen. The user would click "start quiz" and then would be taken to activity_question_1, where they would be given the first question. If they answered correctly, their score would increase by 1. A toast would tell the user if they were right or wrong. They would be taken to the next question (using the same layout) and would go through the same process for questions 2 and 3. When they finished the quiz, they would be taken to the results screen, where they were told their score and give the option to play again.
+
     public void startQuiz() {
 
     }
